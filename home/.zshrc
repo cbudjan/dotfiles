@@ -108,4 +108,5 @@ source /usr/local/bin/virtualenvwrapper.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 source $HOME/.aliases.zsh
+source $HOME/.functions.zsh
 
